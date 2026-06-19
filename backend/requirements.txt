@@ -5,3 +5,4 @@ pymongo>=4.9,<5
 pydantic>=2.6.4
 motor==3.6.0
 python-multipart>=0.0.9
+certifi>=2024.2.2

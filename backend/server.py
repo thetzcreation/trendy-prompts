@@ -482,8 +482,7 @@ if cors_origins:
     allowed_origins = [o.strip() for o in cors_origins.split(",") if o.strip()]
 else:
     allowed_origins = [
-        "https://promptpop-frontned.vercel.app",
-        "https://promptpop.vercel.app",
+        "https://trendyprompts.vercel.app/",
         "http://localhost:3000",
 ]
 

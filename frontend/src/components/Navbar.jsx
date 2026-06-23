@@ -18,7 +18,7 @@ export const Navbar = () => {
           </div>
           <div className="flex flex-col leading-none">
             <span className="font-black text-xl tracking-tight" style={{ fontFamily: "Outfit" }}>
-              PromptPop
+              TrendyPrompts
             </span>
             <span className="text-[10px] font-semibold uppercase tracking-widest text-[#4A4A4A]">
               Trending prompt library

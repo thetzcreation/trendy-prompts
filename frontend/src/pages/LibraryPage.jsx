@@ -195,7 +195,7 @@ export default function LibraryPage() {
       <footer className="border-t-2 border-[#121212] mt-10 bg-[#121212] text-white">
         <div className="max-w-7xl mx-auto px-6 md:px-10 py-8 flex flex-wrap items-center justify-between gap-3 text-sm">
           <span className="font-bold" style={{ fontFamily: "Outfit" }}>
-            PromptPop · Curated, copy-paste, ship today.
+            TrendyPrompts · Curated, copy-paste, ship today.
           </span>
           <span className="opacity-70">Made for creators · 2026</span>
         </div>
